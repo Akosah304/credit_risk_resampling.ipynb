@@ -1,6 +1,6 @@
 # Unit 12 - Credit Risk Classification
 
-![Credit Risk](image/credit image.png)
+![Credit Risk](https://github.com/Akosah304/credit_risk_resampling.ipynb/blob/main/image/credit%20image.png)
 
 ## Background
 
