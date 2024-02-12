@@ -52,4 +52,4 @@ weighted avg       0.99      0.99      0.99     19384
 
 ## Summary
 
-Model 2 (the oversampled logitstic model) seems to perform slightly better than Model 1 (the original logistic model). Model 2 has less variation between f1-score classification categories (0 for healthy loan and 1 for high-risk loan), and stronger recall compared to model 1. If one had to pick between the two models, I would recommend using model 2. However, a better model may still exist. 
+Model 2 (the oversampled logistic model) appears to perform slightly better than Model 1 (the original logistic model). Model 2 has less variation between f1-score classification categories (0 for healthy loan and 1 for high-risk loan), and stronger recall compared to model 1. Model 2 is what I would suggest using if one had to choose between the two models.
